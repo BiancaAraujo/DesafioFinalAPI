@@ -1,7 +1,7 @@
 Desafio Final - Bootcamp: Arquiteto(a) de Software
 ============
 
-Este projeto tem como objetivo a criação de uma API RESTful seguindo o padrão arquitetural MVC, com funcionalidades de CRUD para Pedidos. O desenvolvimento foca em boas práticas de arquitetura de software, design patterns e modelagem arquitetural.
+Este projeto tem como objetivo a criação de uma API RESTful seguindo o padrão arquitetural MVC, com funcionalidades de CRUD para Produtos. O desenvolvimento foca em boas práticas de arquitetura de software, design patterns e modelagem arquitetural.
 
 ---
 ## Tecnologias Utilizadas
